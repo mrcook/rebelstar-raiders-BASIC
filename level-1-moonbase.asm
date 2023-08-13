@@ -1,4 +1,4 @@
-; Level #1: Moonbase
+; Scenario #1: Moonbase
 
 ; DEPLOYMENT
 ; The Operatives deploy first on the MAGENTA areas.

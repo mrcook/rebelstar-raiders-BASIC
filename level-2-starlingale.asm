@@ -1,22 +1,26 @@
-; Level #2: Starlingale
+; Scenario #2: Starlingale
 
 ; DEPLOYMENT
-; The Operatives deploy first on the MAGENTA areas.
-; The Raiders deploy second on the RED areas and move first.
+; The Raiders deploy first on the MAGENTA areas.
+; The Operatives deploy second on the BLUE areas and move first.
+; Raider reinforcements arrive on game turn four.
 ;
-; OPERATIVES ALREADY DEPLOYED
-;   3x Sentry Robots (LASER GUN)
-;   2x Mining Robots (GRAPPLER)
-;   2x Auto-Guns (LASER GUN)
-; OPERATIVES' ORDER OF DEPLOYMENT
-;   4x Technicians (PISTOL)
-;   8x Security Guards (LAS-PISTOL)
-;   4x Sentry Robots (LASER GUN)
+; RAIDERS ALREADY DEPLOYED
+;    2x Nav-Comp
+;    3x Pilots (LAS-PISTOL)
+;    3x Pilots (LAS-RIFLE)
+; RAIDERS ORDER OF DEPLOYMENT
+;   2x Photon Commanders (PHOTON)
+;   3x Raiders (LASER GUN)
+;   9x Raiders (LAS-RIFLE)
+; RAIDER REINFORCEMENTS
+;   8x Raiders (LAS-RIFLE)
+; OPERATIVES ORDER OF DEPLOYMENT
+;   4x Zorbotrons (GAS BOMB)
+;  13x Fly-Bots (ZEEKER)
+;   4x Slavers (LAS-WHIP)
 ;   1x Mining Robot (GRAPPLER)
-; RAIDERS' ORDER OF DEPLOYMENT
-;   4x Photon Commanders (PHOTON)
-;   4x Raiders (GRENADE)
-;  16x Raiders (LASER GUN)
+;   2x Security Guards (LAS-PISTOL)
 
 
 ; BLK#02: STARLING - DIM(2,10). Indicates the order of operatives/raiders, which

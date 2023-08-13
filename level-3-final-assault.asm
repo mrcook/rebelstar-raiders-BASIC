@@ -1,22 +1,22 @@
-; Level #3: The Final Assault
+; Scenario #3: The Final Assault
 
 ; DEPLOYMENT
-; The Operatives deploy first on the MAGENTA areas.
-; The Raiders deploy second on the RED areas and move first.
+; The Operatives deploy first on the BLUE areas.
+; The Raiders deploy second on the MAGENTA areas and move first.
 ;
 ; OPERATIVES ALREADY DEPLOYED
-;   3x Sentry Robots (LASER GUN)
-;   2x Mining Robots (GRAPPLER)
-;   2x Auto-Guns (LASER GUN)
-; OPERATIVES' ORDER OF DEPLOYMENT
-;   4x Technicians (PISTOL)
-;   8x Security Guards (LAS-PISTOL)
 ;   4x Sentry Robots (LASER GUN)
-;   1x Mining Robot (GRAPPLER)
+;   6x Service Robots (CRUSHER)
+;   8x Main-Comp brain elements
+; OPERATIVES' ORDER OF DEPLOYMENT
+;   6x Fly-Bots (ZEEKER)
+;  15x Guards (LAS-RIFLE)
+;   2x Sentry Robots (LASER GUN)
 ; RAIDERS' ORDER OF DEPLOYMENT
-;   4x Photon Commanders (PHOTON)
-;   4x Raiders (GRENADE)
-;  16x Raiders (LASER GUN)
+;   2x Photon Commanders (PHOTON)
+;   6x Raiders (LASER GUN)
+;   6x Raiders (STARBOLT)
+;  15x Raiders (LAS-RIFLE)
 
 
 ; BLK#23: ASSAULT - DIM(2,10). Indicates the order of operatives/raiders, which
