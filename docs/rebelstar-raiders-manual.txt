@@ -1,0 +1,326 @@
+REBELSTAR RAIDERS
+(Red Shift, 1983)
+
+Gameplay instructions and scenario descriptions. Taken from the 
+"The Rebelstar Collection" players' manual (Mythos Games Ltd, 
+1991). 
+
+Converted to ASCII text format by David J Corbett, 03-dec-2004.
+
+
+
+THE REBELST*R COLLECTION
+
+LOADING YOUR GAMES
+
+TAPE USERS
+The games are loaded by typing LOAD followed by the file name of 
+the game in quotation marks. The file name of each game is given 
+in the instructions for the game. Make sure the correct side of 
+the correct cassette is in your tape unit. For example, to load 
+Nebula rewind cassette number one to the beginning of the second 
+side, type LOAD "NEBULA" and press the enter key.
+
+DISK USERS
+Reset the machine and insert the correct side of the disk 
+containing the game you wish to play and press the enter key. A 
+menu will be displayed allowing you to load the game by pressing 
+its number.
+
+DIRECTION KEYS
+All of the games use the following keys to move a flashing cursor 
+around the display, or to move characters on the map.
+
+Q	UP AND LEFT
+W	UP
+E	UP AND RIGHT
+D	RIGHT
+C	DOWN AND RIGHT
+X	DOWN
+Z	DOWN AND LEFT
+A	LEFT
+
+
+
+REBELSTAR RAIDERS, 1983
+
+FILE NAME: "REBEL"
+
+
+INTRODUCTION
+Rebelstar Raiders is a two player tactical combat game with three 
+separate scenarios. Each player controls between twenty and 
+thirty characters with individual characteristics and armed with 
+various weapons. This was the first computer game of its type, 
+and is the fore-runner of 'Rebelstar', 'Rebelstar II' and 'Laser 
+Squad'.
+
+
+LOADING THE SCENARIOS
+When the game has loaded stop the tape. Press '1', '2' or '3' to 
+select a scenario and start the tape. Refer to the scenario 
+descriptions for details of your objectives and deployment.
+
+
+DEPLOYMENT
+When the scenario has loaded, the deployment areas will be 
+displayed on the map. Depending on the scenario, one player will 
+deploy his characters on one colour and the other player will 
+deploy on the other colour. A flashing cursor is used to select 
+deployment positions. The cursor is moved using the direction 
+keys. The name and weapon of the character to deploy are 
+displayed at the top of the screen. Position the cursor and press 
+S to deploy. If you have attempted to deploy on the wrong place 
+then a warning tone will sound.
+
+
+GAME TURNS
+The game is divided into game turns, and in each game turn each 
+character gets a number of movement points which are spent on 
+movement and combat. The first player moves and fires with his 
+characters until they have either run out of movement points or 
+the player wishes to move no more. The other player then has his 
+turn. 
+At the beginning of each game turn the number of victory points 
+that each player has accumulated is displayed. The current game 
+turn and the number of game turns remaining are also displayed. 
+
+
+THE CONTROLS 
+The computer can be in three different modes during the game; 
+cursor mode, movement mode or ranged combat mode. The controls 
+for each mode are as follows;
+
+CURSOR MODE - shown by a flashing cursor. When the cursor is 
+moved over a character, its name and weapon are displayed. Use 
+the direction keys to move the cursor.
+
+I - Reveals information about a character if the cursor is over 
+one. 
+P - Reveals information about a character's weapon. 
+S - If the cursor is over a character that you control then it is 
+selected for movement and the computer changes to movement mode. 
+V - The victory points that each player has accumulated are 
+displayed. The number of victory points required to win is 
+displayed for scenario one and three, and the number of game 
+turns remaining is displayed for scenario two. 
+0 (zero) - End your turn and give control to the other player.
+
+
+MOVEMENT MODE - shown by a flashing character. At the top of the 
+screen the number of movement points remaining is displayed. Use 
+the direction keys to move the character.
+
+I - Displays information about the character. 
+P - Displays information about the characters weapon. 
+V - Displays the current victory points for each player. 
+F - Change to ranged combat mode. 
+K - End movement and return to cursor mode.
+
+
+RANGED COMBAT MODE - Shown by a flashing cursor. Once you have 
+fired the weapon the number of rounds left and movement points 
+left will be displayed. Use the direction keys to move the cursor 
+to the desired target. 
+
+S - Select target. 
+K - Cancel ranged combat and return to movement mode.
+
+NOTE 1: If you press I, P or V for information , press any key to 
+return to your current mode. 
+NOTE 2: If a character runs out of movement points during 
+movement or combat then the computer automatically returns to 
+cursor mode. 
+
+
+MOVEMENT 
+Moving a character uses up a number of movement points according 
+to the terrain. If you attempt to move somewhere impassable a 
+warning tone will sound. You cannot move onto a space occupied by 
+another character. If you do not have enough movement points to 
+move to the desired space then press K to cancel movement. 
+
+
+COMBAT
+In order to attack an enemy in close combat simply move into the 
+character in movement mode. In order to use ranged combat you 
+must press F to enter ranged combat mode. If a character has no 
+ranged weapon or no rounds left then pressing F will have no 
+effect. Whichever type of combat is used the chance of being on 
+target is displayed. 
+
+
+WOUNDS AND ENDURANCE 
+When a character is hit it will suffer a number of wounds 
+depending on the power of the weapon and the armour of the 
+target. If a character's endurance falls below a fifth of its 
+initial endurance then the character is seriously wounded and 
+receives only a half of its movement points in future turns. When 
+endurance falls to zero then the character is eliminated. 
+
+
+SPECIAL WEAPONS
+The Photon is an automatic repeating laser gun and fires three 
+bursts per attack. Grenades and Starbolts are explosive weapons 
+which can destroy walls and obstructions. Gas bombs affect an 
+entire character square but do not destroy terrain.
+
+
+CHARACTER INFORMATION
+MPs - The first number is the characters current movement points 
+and the number in brackets is its movement point allowance.
+END - The first number is the character's current endurance and 
+the number in brackets is its initial endurance.
+Skill - The character's skill in using its weapon
+Armour - The strength of the characters armour.
+VPs - The number of victory points awarded for eliminating the 
+character.
+
+
+WEAPON INFORMATION
+Hit - The basic percentage chance of being on target. In ranged 
+combat the character's skill multiplied by the skill factor of 
+the weapon is added to the basic accuracy.
+MP. cost - The percentage of a character's movement point 
+allowance needed to use the weapon.
+Close - The average number of wounds inflicted in close combat.
+Range - The ranged combat damage number. A zero means that the 
+weapon is for close combat only. The number in brackets is the 
+range deterioration. The higher the number then the more rapid is 
+the deterioration in damage over distance.
+Rounds - The number of rounds left in the weapon.
+
+
+SCENARIO ONE: MOONBASE
+
+INTRODUCTION
+Orbiting Planet Pi (centre of Red Shift's vast organisation) is 
+the small moon Spyder. It was the main base for planetary 
+defences. The defences consisted of several meason accelerators 
+which would be capable of destroying any ship attempting to land 
+on the planet. If the raid on Main-Comp was to go ahead then the 
+moonbase must be destroyed. The base had been disguised as a 
+mining station. The first of the Capricorn clones was to lead 
+this attack. The 24 raiders were to storm the tracking station 
+and neutralise the control centre (on the top right hand of the 
+map). Only one raider need get into the control room to destroy 
+the sensitive equipment.
+
+DEPLOYMENT
+The moonbase operatives deploy first on the magenta areas. The 
+Raiders deploy second on the red areas and move first. Some 
+operatives are deployed in preset positions.
+
+OPERATIVES ALREADY DEPLOYED 
+3 sentry robots with laser guns 
+2 mining robots with grapplers 
+2 auto-guns with laser guns
+
+OPERATIVES' ORDER OF DEPLOYMENT 
+4 technicians with pistols 
+8 security guards with las-pistols 
+4 sentry robots with laser guns 
+1 mining robot with grapplers
+
+RAIDERS' ORDER OF DEPLOYMENT 
+4 photon commanders with photons 
+4 raiders with grenades 
+16 raiders with laser guns
+
+
+SCENARIO TWO: STARLINGALE
+
+INTRODUCTION
+While the raiders were attacking the moonbase the Starlingale was 
+docking nearby in preparation for the escape. The Starlingale 
+crew were informed about the successful de-activation of the 
+moonbase, but the raiders did not return to the ship. A search 
+party was sent to look for survivors. Meanwhile five raiders 
+returned to the ship led by Joe Capricorn and the fearless 
+Captain Krenon. They were pursued by an assortment of robot 
+operatives activated by the Main-comp via a secret transmitter 
+hidden in the moonbase. Unfortunately the raiders could not take 
+off until hull repairs were completed, so the raiders prepared 
+for battle. The operatives must prevent the ship from taking off 
+by destroying the two Navcomps on the bridge. If they have not 
+succeeded by the end of game turn twelve then the ship takes off 
+and the operatives lose the game.
+
+DEPLOYMENT
+The raiders deploy first on the magenta areas. The operatives 
+deploy second on the blue areas and move first. Some raiders are 
+deployed in preset positions and raider reinforcements arrive on 
+game turn four.
+
+RAIDERS ALREADY DEPLOYED 
+2 Nav-comps
+3 pilots with las-pistols
+3 plod-bots with las-rifles
+
+RAIDERS ORDER OF DEPLOYMENT 
+2 photon commanders with photons 
+3 raiders with laser guns 
+9 raiders with las-rifles
+
+RAIDER REINFORCEMENTS 
+8 raiders with las-rifles
+
+OPERATIVES ORDER OF DEPLOYMENT
+4 Zorbotrons with gas bombs
+13 fly-bots with zeekers
+4 slavers with las-whips
+1 mining robot with grapplers
+2 security guards with las-pistols
+
+
+SCENARIO THREE: THE FINAL ASSAULT
+
+INTRODUCTION
+The Starlingale escaped from the moonbase and joined the 
+Freedream on the planet surface. The raiders gained entrance to 
+the four lift shafts which descended to the Main-comps fortified 
+shelter. They discovered that the Main-comp was well guarded. 
+However they were determined to make the final effort
+to destroy the Galactic Corporation.
+The raiders must destroy all eight parts of the Main-comp in 
+order to win. The operatives must eliminate all the raiders to 
+win.
+
+DEPLOYMENT
+The operatives deploy first on the blue areas. The raiders deploy 
+second on the magenta areas and move first. Some operatives are 
+deployed in preset positions.
+
+OPERATIVES ALREADY DEPLOYED
+5 sentry robots with laser guns
+6 service robots with crushers
+8 Main-comp brain elements
+
+OPERATIVES' ORDER OF DEPLOYMENT
+6 fly-bots with zeekers
+15 guards with las-rifles
+2 sentry robots with laser guns
+
+RAIDERS' ORDER OF DEPLOYMENT
+2 photon commanders with photons
+6 raiders with laser guns
+6 raiders with starbolts
+15 raiders with las-rifles
+
+
+<Omitted: NEBULA instructions>
+<Omitted: CHAOS instructions>
+<Omitted: REBELSTAR instructions>
+<Omitted: REBELSTAR 2 instructions>
+
+
+'The Rebelstar Collection' is published by:
+
+Mythos Games Ltd.
+19 The Rows
+The High
+Harlow
+Essex
+CM20 1BZ
+
+Copyright 1991, Julian Gollop
